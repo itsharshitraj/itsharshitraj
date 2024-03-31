@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsharshitraj
-- 👀 I’m interested in Full Stack Web Development,Data Structure & Algorithm,Java Developer 
-- 🌱 I’m currently learning Front End Devlopment
-- 💞️ I’m looking to collaborate on Front End Projects
+- 👀 I’m a Full Stack Web Developer and Java Developer 
+- 🌱 I’m currently learning Back End Devlopment
+- 💞️ I’m looking to collaborate on Backend End Projects
 - 📫 How to reach me on my email itsharshitraj@gmail.com
 
 <!---
